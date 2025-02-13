@@ -1,6 +1,6 @@
 baseURL: https://aafu.pages.dev/
 languageCode: en-us
-publishDir: "docs"
+publishDir: ="docs"
 build:
   writeStats: true
 params:
