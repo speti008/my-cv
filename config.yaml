@@ -1,4 +1,4 @@
-baseURL: https://aafu.pages.dev/
+baseURL: https://speti008.github.io/my-cv/
 languageCode: en-us
 publishDir: "docs"
 build:
